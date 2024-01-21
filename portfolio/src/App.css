@@ -198,7 +198,7 @@
 }
 
 .about {
-  /* position: absolute; */
+  /* position: absolute */
   /* top: 100vh; */
   display: flex;
   justify-content: center;
